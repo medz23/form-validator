@@ -1,0 +1,3 @@
+[1011/121514.209:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Meddy\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\e7878908-cc4c-4cf0-b9b1-572cdffd864d: The system cannot find the path specified. (0x3)
+[1011/121514.216:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1011/121514.218:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Meddy\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3e57cff6-27c9-4f6f-8db1-dfbbdd69613b: The system cannot find the path specified. (0x3)
